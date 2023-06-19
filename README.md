@@ -1,3 +1,6 @@
+# 增加了一些sql表接口，主要是原项目作者 刻意删除
+
+
 
 ### 项目名称
 
@@ -74,7 +77,3 @@ pip install -r requirement.txt
 运行 python manage.py runserver 即可
 
  
-
-### 付费咨询
-
-微信: lengqin1024
