@@ -1,5 +1,5 @@
-# 增加了一些sql表接口，主要是原项目作者 刻意删除
-
+# 增加了一些sql表接口，主要是原项目作者 刻意删除（不一定全对，可以跑起来）
+https://github.com/yuanmouren1hao/videoproject/blob/master/some.sql
 
 
 ### 项目名称
